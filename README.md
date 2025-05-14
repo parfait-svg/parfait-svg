@@ -1,0 +1,22 @@
+# Hi, I'm Brice Parfait 👋
+
+I'm a Software Engineering Level 2 student at JFN-HUI, Douala, Cameroon.
+
+## I'm interested in:
+- Web Development
+- Frontend Development
+
+## I'm currently working on:
+- Building projects to enhance my skills and contribute to open-source.
+
+## How to reach me:
+- Email: parfaitbrisco@gmail.com
+- LinkedIn: [Brice Parfait](https://www.linkedin.com/in/brice-parfait-902817354/)
+
+## Fun fact:
+- I enjoy learning new technologies and improving my coding skills!
+
+<!---
+parfait-svg/parfait-svg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
