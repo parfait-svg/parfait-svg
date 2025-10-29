@@ -1,10 +1,11 @@
 # Hi, I'm Brice Parfait 👋
 
-I'm a Software Engineering Level 2 student at JFN-HUI, Douala, Cameroon.
+I'm a Software Engineering Level 3 student at yaounde internation business school, Cameroon.
 
 ## I'm interested in:
 - Web Development
 - Frontend Development
+- Software Developement
 
 ## I'm currently working on:
 - Building projects to enhance my skills and contribute to open-source.
