@@ -13,7 +13,7 @@ I'm a Software Engineering Level 3 student at yaounde internation business schoo
 - Building projects to enhance my skills and contribute to open-source.
 
 ## How to reach me:
--Portfolio: https://briceparfait.infinityfreeapp.com
+ -Portfolio: https://briceparfait.infinityfreeapp.com
 - Email: parfaitbrisco@gmail.com
 - LinkedIn: [Brice Parfait](https://www.linkedin.com/in/brice-parfait-902817354/)
 
