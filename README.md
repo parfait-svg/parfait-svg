@@ -115,7 +115,7 @@
   </p>
 
   <p>
-    He has experience in designing complete applications from frontend interfaces to backend logic, including database management and API integration.
+    I have experience in designing complete applications from frontend interfaces to backend logic, including database management and API integration.
   </p>
 
   <br>
