@@ -139,38 +139,11 @@
 
   <br>
 
-  <h3>Featured Projects</h3>
-
-  <p>
-    <b>Multi-Tenant SaaS Platform</b> — A venture-building platform with secure
-    JWT authentication (access + refresh tokens), role-based access control
-    across team workspaces, and a full asynchronous REST API built with
-    FastAPI and SQLAlchemy. Frontend built with React, TypeScript, and
-    Tailwind CSS. Fully containerized with Docker.
-  </p>
-
-  <p>
-    <b>Claude's Store</b> — An e-commerce showcase website for a physical
-    retail business, covering product catalog management, order placement
-    with automatic receipt generation, and an admin dashboard for managing
-    products, orders, and customers.
-  </p>
-
-  <p>
-    <b>[Your Mobile App Name]</b> — A cross-platform mobile app built with
-    [React Native / Flutter] for iOS and Android from a single codebase.
-    [Add one sentence on what it does and one technical highlight.]
-  </p>
-
-  <br>
-
   <h3>Contact</h3>
 
   <p>
     Email: parfaitbrisco@gmail.com <br>
     Portfolio: https://bricep.netlify.app <br>
-    LinkedIn: [Add your LinkedIn URL] <br>
-    Upwork: [Add your Upwork profile URL]
   </p>
 
 </div>
