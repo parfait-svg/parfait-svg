@@ -3,7 +3,7 @@
 <div align="left">
 
   <h2>Brice Parfait</h2>
-  <p><b>Software Engineer | Full Stack Web & Mobile Developer | Systems Builder</b></p>
+  <p><b>Junior Software develoepr | L3 student at CITEC-HITM | Web & Mobile Developer | Systems Builder</b></p>
 
   <p>
     <img src="https://img.shields.io/badge/BUILDING%20SCALABLE%20SYSTEMS-black?style=for-the-badge&labelColor=1e1e2f&color=white" />
