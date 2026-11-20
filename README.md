@@ -173,24 +173,6 @@ I build applications around clear architectural patterns — layered and three-t
 
 <br/>
 
-<!-- ===================== GITHUB ANALYTICS ===================== -->
-<p align="left">
-  <img src="https://img.shields.io/badge/-GITHUB%20ANALYTICS-black?style=for-the-badge&logo=github&logoColor=white&labelColor=ec1313&color=1e1e2f" />
-</p>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=parfait-svg&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=ec1313&icon_color=ec1313&text_color=c9d1d9&bg_color=1e1e2f" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parfait-svg&layout=compact&langs_count=8&hide_border=true&title_color=ec1313&text_color=c9d1d9&bg_color=1e1e2f" />
-
-<br/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=parfait-svg&hide_border=true&background=1e1e2f&stroke=ec1313&ring=ec1313&fire=ec1313&currStreakLabel=ec1313&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
-
-</div>
-
-<br/>
-
 <!-- ===================== CONTRIBUTION CALENDAR ===================== -->
 <p align="left">
   <img src="https://img.shields.io/badge/-CONTRIBUTION%20CALENDAR-black?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=ec1313&color=1e1e2f" />
