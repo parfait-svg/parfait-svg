@@ -180,7 +180,7 @@ I build applications around clear architectural patterns — layered and three-t
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=parfait-svg&show_icons=true&count_private=true&hide_border=true&title_color=ec1313&icon_color=ec1313&text_color=c9d1d9&bg_color=1e1e2f" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=parfait-svg&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=ec1313&icon_color=ec1313&text_color=c9d1d9&bg_color=1e1e2f" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parfait-svg&layout=compact&langs_count=8&hide_border=true&title_color=ec1313&text_color=c9d1d9&bg_color=1e1e2f" />
 
 <br/>
@@ -191,12 +191,24 @@ I build applications around clear architectural patterns — layered and three-t
 
 <br/>
 
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+<!-- ===================== CONTRIBUTION CALENDAR ===================== -->
 <p align="left">
-  <img src="https://img.shields.io/badge/-CONTRIBUTION%20GRAPH-black?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=ec1313&color=1e1e2f" />
+  <img src="https://img.shields.io/badge/-CONTRIBUTION%20CALENDAR-black?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=ec1313&color=1e1e2f" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parfait-svg&bg_color=1e1e2f&color=ffffff&line=ec1313&point=ffffff&area=true&hide_border=true" width="100%"/>
+<!-- Real GitHub contribution calendar (mirrors the native green graph) -->
+<div align="center">
+  <img src="https://ghchart.rshah.org/ec1313/parfait-svg" width="100%" alt="parfait-svg contribution calendar" />
+</div>
+
+<br/>
+
+<!-- ===================== ACTIVITY GRAPH ===================== -->
+<p align="left">
+  <img src="https://img.shields.io/badge/-ACTIVITY%20GRAPH-black?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=ec1313&color=1e1e2f" />
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parfait-svg&bg_color=1e1e2f&color=ffffff&line=ec1313&point=ffffff&area=true&hide_border=true" width="100%" alt="parfait-svg activity graph"/>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=parfait-svg&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" />
